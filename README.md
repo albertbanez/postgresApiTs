@@ -15,3 +15,11 @@ git add .
 
 to commit
 git commit -m "initial commit"
+
+to push to main branch
+git push origin main
+
+to push to develop branch
+git push origin develop
+
+
