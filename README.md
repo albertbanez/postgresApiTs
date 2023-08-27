@@ -22,4 +22,6 @@ git push origin main
 to push to develop branch
 git push origin develop
 
+to pull
+git pull
 
